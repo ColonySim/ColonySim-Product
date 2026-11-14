@@ -1,0 +1,13 @@
+# Генерируемые файлы Unity
+/Unity/Library/
+/Unity/Temp/
+/Unity/Obj/
+/Unity/Logs/
+/Unity/UserSettings/
+/Unity/[Bb]uild/
+/Unity/[Bb]uilds/
+*.apk
+*.aab
+.idea/
+.vs/
+.vscode/

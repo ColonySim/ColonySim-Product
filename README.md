@@ -1,12 +1,13 @@
-# Product
+# ColonySim · Продукт
 
-Здесь находятся файлы создаваемого продукта, а не описание его замысла.
+Производственные материалы симулятора колонии. Сейчас здесь архитектурные записки по Simple Colony и материал о согласовании версий прототипа. Текущая ветка содержит документацию.
 
-Планируемое содержимое:
+- [Архитектура Simple Colony](SimpleColony-Architecture.md)
+- [Согласование версий прототипа](SimpleColony-OOP-Reconciliation.md)
 
-- `Unity/` — Unity-проект, когда будет выбрана и зафиксирована версия редактора;
-- исходный код доменной симуляции и тесты;
-- инструменты импорта, генерации и профилирования;
-- исходные производственные материалы, необходимые для сборки продукта.
+## Репозитории ColonySim
 
-Требования, игровой дизайн и сеттинг остаются в `ObsidianVault/`. Большие бинарные ресурсы перед добавлением следует оценивать для хранения через Git LFS.
+- [Валт Obsidian](https://github.com/ilyasazazaz/ColonySim-Vault)
+- [Продукт](https://github.com/ilyasazazaz/ColonySim-Product)
+- [Simple Colony](https://github.com/ilyasazazaz/ColonySim-Simple-Colony)
+- [Pawn Stories](https://github.com/ilyasazazaz/ColonySim-Pawn-Stories)
